@@ -1,0 +1,365 @@
+|j|☆Raybit42
+|j|☆doopydino
+|t:|1676234534
+|gametype|singles
+|player|p1|Raybit42|170|
+|player|p2|doopydino|265|
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|9
+|tier|[Gen 9] Paldea Dex Draft
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Clause: Evasion abilities, items, and moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|clearpoke
+|poke|p1|Mimikyu, F|
+|poke|p1|Qwilfish-Hisui, F|
+|poke|p1|Iron Thorns|
+|poke|p1|Cinderace, M|
+|poke|p1|Orthworm, F|
+|poke|p1|Slowking, M|
+|poke|p2|Chien-Pao|
+|poke|p2|Iron Moth|
+|poke|p2|Scizor, M|
+|poke|p2|Azumarill, M|
+|poke|p2|Krookodile, M|
+|poke|p2|Noivern, M|
+|teampreview
+|j| Turb0Tastic
+|j| Wonderfire-Z
+|c| Wonderfire-Z|Showdown
+|c| Turb0Tastic|SHOWDOWN
+|j| somerandomfellow
+|c|☆doopydino|its showdown time
+|c|☆Raybit42|showdown
+|
+|t:|1676234587
+|start
+|switch|p1a: Nisos|Qwilfish-Hisui, F|100/100
+|switch|p2a: Filet Minion|Azumarill, M, shiny|100/100
+|-ability|p1a: Nisos|Intimidate|boost
+|-unboost|p2a: Filet Minion|atk|1
+|turn|1
+|j| olivia7
+|
+|t:|1676234608
+|switch|p2a: Big Meaty Claws|Scizor, M|100/100
+|move|p1a: Nisos|Toxic Spikes|p2a: Big Meaty Claws
+|-sidestart|p2: doopydino|move: Toxic Spikes
+|
+|upkeep
+|turn|2
+|c| Wonderfire-Z|Doopy I thought you got your mons picked "at random", why does this team look so competent
+|c|☆doopydino|uhh
+|j| rattlemebonez
+|c|☆doopydino|lucky picks?
+|
+|t:|1676234651
+|switch|p1a: Fregatidae|Orthworm, F|100/100
+|move|p2a: Big Meaty Claws|Defog|p1a: Fregatidae
+|-unboost|p1a: Fregatidae|evasion|1
+|-sideend|p2: doopydino|Toxic Spikes|[from] move: Defog|[of] p2a: Big Meaty Claws
+|
+|upkeep
+|turn|3
+|c| rattlemebonez|It’s sols draft
+|
+|t:|1676234674
+|move|p1a: Fregatidae|Shed Tail|p1a: Fregatidae
+|-start|p1a: Fregatidae|Substitute|[from] move: Shed Tail
+|-damage|p1a: Fregatidae|50/100
+|-enditem|p1a: Fregatidae|Sitrus Berry|[eat]
+|-heal|p1a: Fregatidae|75/100|[from] item: Sitrus Berry
+|
+|t:|1676234679
+|switch|p1a: Red-Tail|Cinderace, M|100/100|[from] Shed Tail
+|move|p2a: Big Meaty Claws|Close Combat|p1a: Red-Tail
+|-end|p1a: Red-Tail|Substitute
+|-unboost|p2a: Big Meaty Claws|def|1
+|-unboost|p2a: Big Meaty Claws|spd|1
+|
+|upkeep
+|turn|4
+|
+|t:|1676234699
+|switch|p2a: Zubat (Real)|Noivern, M|100/100
+|-item|p1a: Red-Tail|Heavy-Duty Boots|[from] ability: Frisk|[of] p2a: Zubat (Real)|[identify]
+|move|p1a: Red-Tail|Pyro Ball|p2a: Zubat (Real)
+|-resisted|p2a: Zubat (Real)
+|-damage|p2a: Zubat (Real)|75/100
+|
+|-heal|p2a: Zubat (Real)|82/100|[from] item: Leftovers
+|upkeep
+|turn|5
+|c| rattlemebonez|that’s the real zubat
+|c| Wonderfire-Z|Zubat's a lot taller than I remember
+|
+|t:|1676234721
+|move|p1a: Red-Tail|U-turn|p2a: Zubat (Real)
+|-start|p1a: Red-Tail|typechange|Bug|[from] ability: Libero
+|-resisted|p2a: Zubat (Real)
+|-damage|p2a: Zubat (Real)|66/100
+|c| rattlemebonez|the zubat we all know and love is just the one that comes out at night
+|
+|t:|1676234727
+|switch|p1a: Vortex|Slowking, M|100/100|[from] U-turn
+|move|p2a: Zubat (Real)|U-turn|p1a: Vortex
+|-supereffective|p1a: Vortex
+|-damage|p1a: Vortex|76/100
+|
+|t:|1676234740
+|switch|p2a: Diego|Chien-Pao|100/100|[from] U-turn
+|-ability|p2a: Diego|Sword of Ruin
+|
+|upkeep
+|turn|6
+|l| olivia7
+|
+|t:|1676234755
+|switch|p1a: Nisos|Qwilfish-Hisui, F|100/100
+|-ability|p1a: Nisos|Intimidate|boost
+|-unboost|p2a: Diego|atk|1
+|move|p2a: Diego|Crunch|p1a: Nisos
+|-resisted|p1a: Nisos
+|-crit|p1a: Nisos
+|-damage|p1a: Nisos|74/100
+|-unboost|p1a: Nisos|def|1
+|-damage|p2a: Diego|91/100|[from] item: Life Orb
+|
+|upkeep
+|turn|7
+|j| olivia7
+|
+|t:|1676234773
+|move|p2a: Diego|Ice Spinner|p1a: Nisos
+|-damage|p1a: Nisos|35/100
+|-damage|p2a: Diego|81/100|[from] item: Life Orb
+|move|p1a: Nisos|Spikes|p2a: Diego
+|-sidestart|p2: doopydino|Spikes
+|
+|upkeep
+|turn|8
+|
+|t:|1676234788
+|move|p2a: Diego|Ice Spinner|p1a: Nisos
+|-damage|p1a: Nisos|0 fnt
+|faint|p1a: Nisos
+|-damage|p2a: Diego|71/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1676234790
+|switch|p1a: DA-SR 12|Mimikyu, F, shiny|100/100
+|turn|9
+|
+|t:|1676234811
+|switch|p2a: Big Meaty Claws|Scizor, M|100/100
+|-damage|p2a: Big Meaty Claws|88/100|[from] Spikes
+|move|p1a: DA-SR 12|Drain Punch|p2a: Big Meaty Claws
+|-damage|p2a: Big Meaty Claws|74/100
+|
+|-heal|p2a: Big Meaty Claws|80/100|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1676234833
+|switch|p1a: Fregatidae|Orthworm, F|75/100
+|move|p2a: Big Meaty Claws|Defog|p1a: Fregatidae
+|-unboost|p1a: Fregatidae|evasion|1
+|-sideend|p2: doopydino|Spikes|[from] move: Defog|[of] p2a: Big Meaty Claws
+|
+|-heal|p2a: Big Meaty Claws|86/100|[from] item: Leftovers
+|upkeep
+|turn|11
+|c| Wonderfire-Z|It's always weird when they give a previously-evolved mon an evolution
+|l| rattlemebonez
+|
+|t:|1676234860
+|move|p1a: Fregatidae|Shed Tail|p1a: Fregatidae
+|-start|p1a: Fregatidae|Substitute|[from] move: Shed Tail
+|-damage|p1a: Fregatidae|25/100
+|j| rattlemebonez
+|
+|t:|1676234897
+|switch|p1a: Adjudicator|Iron Thorns|100/100|[from] Shed Tail
+|move|p2a: Big Meaty Claws|Close Combat|p1a: Adjudicator
+|-supereffective|p1a: Adjudicator
+|-end|p1a: Adjudicator|Substitute
+|-unboost|p2a: Big Meaty Claws|def|1
+|-unboost|p2a: Big Meaty Claws|spd|1
+|
+|-heal|p2a: Big Meaty Claws|92/100|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1676234931
+|switch|p2a: The Hamburglar|Krookodile, M|100/100
+|-ability|p2a: The Hamburglar|Intimidate|boost
+|-unboost|p1a: Adjudicator|atk|1
+|-terastallize|p1a: Adjudicator|Bug
+|move|p1a: Adjudicator|Dragon Dance|p1a: Adjudicator
+|-boost|p1a: Adjudicator|atk|1
+|-boost|p1a: Adjudicator|spe|1
+|
+|upkeep
+|turn|13
+|c|☆doopydino|bug
+|l| olivia7
+|c|☆Raybit42|yes
+|
+|t:|1676234974
+|move|p1a: Adjudicator|Dragon Dance|p1a: Adjudicator
+|-boost|p1a: Adjudicator|atk|1
+|-boost|p1a: Adjudicator|spe|1
+|move|p2a: The Hamburglar|Stealth Rock|p1a: Adjudicator
+|-sidestart|p1: Raybit42|move: Stealth Rock
+|
+|upkeep
+|turn|14
+|c| rattlemebonez|🐛
+|c| Wonderfire-Z|He is the bug color after all
+|
+|t:|1676234989
+|move|p1a: Adjudicator|Pin Missile|p2a: The Hamburglar
+|-supereffective|p2a: The Hamburglar
+|-damage|p2a: The Hamburglar|44/100
+|-supereffective|p2a: The Hamburglar
+|-damage|p2a: The Hamburglar|0 fnt
+|faint|p2a: The Hamburglar
+|-hitcount|p2: The Hamburglar|2
+|
+|upkeep
+|c| Turb0Tastic|Pinboy…
+|j| olivia7
+|c| Wonderfire-Z|Let's put a pin in that
+|l| Turb0Tastic
+|
+|t:|1676235057
+|switch|p2a: FzP SolarBeam|Iron Moth|100/100
+|-enditem|p2a: FzP SolarBeam|Booster Energy
+|-activate|p2a: FzP SolarBeam|ability: Quark Drive|[fromitem]
+|-start|p2a: FzP SolarBeam|quarkdrivespa
+|turn|15
+|j| Turb0Tastic
+|
+|t:|1676235083
+|move|p1a: Adjudicator|Wild Charge|p2a: FzP SolarBeam
+|-damage|p2a: FzP SolarBeam|0 fnt
+|faint|p2a: FzP SolarBeam
+|-end|p2a: FzP SolarBeam|Quark Drive|[silent]
+|-damage|p1a: Adjudicator|79/100|[from] Recoil
+|
+|upkeep
+|c| Wonderfire-Z|That's definitely Sol alright
+|
+|t:|1676235122
+|switch|p2a: Big Meaty Claws|Scizor, M|92/100
+|turn|16
+|
+|t:|1676235141
+|move|p2a: Big Meaty Claws|Bullet Punch|p1a: Adjudicator
+|-damage|p1a: Adjudicator|56/100
+|move|p1a: Adjudicator|Wild Charge|p2a: Big Meaty Claws
+|-damage|p2a: Big Meaty Claws|36/100
+|-damage|p1a: Adjudicator|42/100|[from] Recoil
+|
+|-heal|p2a: Big Meaty Claws|42/100|[from] item: Leftovers
+|upkeep
+|turn|17
+|
+|t:|1676235158
+|move|p2a: Big Meaty Claws|Bullet Punch|p1a: Adjudicator
+|-damage|p1a: Adjudicator|20/100
+|move|p1a: Adjudicator|Wild Charge|p2a: Big Meaty Claws
+|-damage|p2a: Big Meaty Claws|0 fnt
+|faint|p2a: Big Meaty Claws
+|-damage|p1a: Adjudicator|9/100|[from] Recoil
+|
+|upkeep
+|
+|t:|1676235176
+|switch|p2a: Diego|Chien-Pao|71/100
+|-ability|p2a: Diego|Sword of Ruin
+|turn|18
+|
+|t:|1676235184
+|move|p2a: Diego|Ice Shard|p1a: Adjudicator
+|-damage|p1a: Adjudicator|0 fnt
+|faint|p1a: Adjudicator
+|-end|p1a: Adjudicator|Quark Drive|[silent]
+|-damage|p2a: Diego|61/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1676235195
+|switch|p1a: DA-SR 12|Mimikyu, F, shiny|100/100
+|-damage|p1a: DA-SR 12|88/100|[from] Stealth Rock
+|turn|19
+|
+|t:|1676235212
+|move|p1a: DA-SR 12|Play Rough|p2a: Diego
+|-supereffective|p2a: Diego
+|-damage|p2a: Diego|0 fnt
+|faint|p2a: Diego
+|
+|upkeep
+|
+|t:|1676235223
+|switch|p2a: Filet Minion|Azumarill, M, shiny|100/100
+|turn|20
+|
+|t:|1676235237
+|move|p1a: DA-SR 12|Play Rough|p2a: Filet Minion
+|-damage|p2a: Filet Minion|64/100
+|move|p2a: Filet Minion|Liquidation|p1a: DA-SR 12
+|-activate|p1a: DA-SR 12|ability: Disguise
+|-damage|p1a: DA-SR 12|88/100
+|detailschange|p1a: DA-SR 12|Mimikyu-Busted, F, shiny
+|-damage|p1a: DA-SR 12|76/100|[from] pokemon: Mimikyu-Busted
+|
+|upkeep
+|turn|21
+|
+|t:|1676235251
+|move|p1a: DA-SR 12|Play Rough|p2a: Filet Minion
+|-damage|p2a: Filet Minion|29/100
+|move|p2a: Filet Minion|Liquidation|p1a: DA-SR 12
+|-damage|p1a: DA-SR 12|0 fnt
+|faint|p1a: DA-SR 12
+|
+|upkeep
+|
+|t:|1676235276
+|switch|p1a: Vortex|Slowking, M|100/100
+|-damage|p1a: Vortex|88/100|[from] Stealth Rock
+|turn|22
+|
+|t:|1676235290
+|switch|p2a: Zubat (Real)|Noivern, M|66/100
+|-item|p1a: Vortex|Choice Specs|[from] ability: Frisk|[of] p2a: Zubat (Real)|[identify]
+|move|p1a: Vortex|Psychic|p2a: Zubat (Real)
+|-damage|p2a: Zubat (Real)|0 fnt
+|faint|p2a: Zubat (Real)
+|
+|upkeep
+|c| somerandomfellow|HEAT
+|
+|t:|1676235302
+|switch|p2a: Filet Minion|Azumarill, M, shiny|29/100
+|turn|23
+|
+|t:|1676235309
+|move|p2a: Filet Minion|Play Rough|p1a: Vortex
+|-damage|p1a: Vortex|4/100
+|move|p1a: Vortex|Psychic|p2a: Filet Minion
+|-damage|p2a: Filet Minion|0 fnt
+|faint|p2a: Filet Minion
+|
+|win|Raybit42
+|c|☆Raybit42|gg
+|c|☆doopydino|gg!
